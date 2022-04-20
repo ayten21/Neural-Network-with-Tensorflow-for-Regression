@@ -12,3 +12,5 @@ In this notebook, I am going to build multiple neural network models to solve a 
 * Creating a dataframe of model's predictions
 
 In conclusion, I have builded 6 model totally, and managed to build a model with almost best predictions. 
+If you want to get clear explanation about what exactly is written here, check out this link and read my article:
+https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-regression-with-tensorflow/
